@@ -1,0 +1,53 @@
+header.masthead {
+  /* background-image: url(../img/amami1.jpg);
+  background-size: cover; */
+  position : relative;
+  height: 50%;
+}
+
+header.masthead h1 {
+  /* background-image: url(../img/amami1.jpg);
+  background-size: cover; */
+  position : absolute;
+  color : black;
+  top : 50%;
+  left : 50%;
+  margin: 0;
+  padding: 0;
+  font-size: 5em;
+  transform: translate(-50%,-50%);
+  background:rgba(255,255,255,0.5);
+
+}
+
+.nav-item img{
+width: 50px;
+height: 50px;  
+border-radius: 20%;
+border-style: groove;
+border-color: blue;
+}
+header.masthead {
+  color:black;
+}
+
+.triangle1{
+  width: 0;
+  height: 0;
+  border-left: 40px solid black;
+  border-top: 40px solid transparent;
+  border-bottom: 40px solid transparent;
+}
+.img{
+  border-radius: 30%;
+}
+h5{
+  line-height: 1.75;
+}
+.timeline-inverted{
+ margin-bottom: 100px; 
+}
+.test{
+  height: 200px;
+  width: 400px;
+}
