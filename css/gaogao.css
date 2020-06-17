@@ -3,9 +3,9 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
-/* html{ */
-  /* scroll-behavior: smooth; */
-/* } */
+html{
+  scroll-behavior: smooth;
+}
 
 body {
   overflow-x: hidden;
